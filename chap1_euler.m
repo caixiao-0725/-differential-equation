@@ -3,6 +3,7 @@ function chap1_euler
 % u'=f(t,u), u(0)=u0
 % f(t,u) = -5u
 
+% by cheng xiao
 T=1;
 h=0.01;
 t=0:h:T;
